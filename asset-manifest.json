@@ -1,15 +1,27 @@
 {
   "files": {
     "main.css": "/website-example/static/css/main.fb961db8.css",
-    "main.js": "/website-example/static/js/main.9eae43ee.js",
+    "main.js": "/website-example/static/js/main.35bf3254.js",
     "static/js/488.d2245c7f.chunk.js": "/website-example/static/js/488.d2245c7f.chunk.js",
+    "static/media/stirling castle.jpg": "/website-example/static/media/stirling castle.9d228f44e597a4e40d06.jpg",
+    "static/media/burg hohenwerfen (austria).jpg": "/website-example/static/media/burg hohenwerfen (austria).395a7dce879c47751427.jpg",
+    "static/media/le pont du gard.jpg": "/website-example/static/media/le pont du gard.cfa8b6edfa20a2028b8a.jpg",
+    "static/media/barcelona.jpg": "/website-example/static/media/barcelona.d20bacfe3bb13d83320c.jpg",
+    "static/media/big ben.jpg": "/website-example/static/media/big ben.60b44d0bd5b6a0511dac.jpg",
+    "static/media/salzburg.jpg": "/website-example/static/media/salzburg.e85fae50fc4ab56be466.jpg",
+    "static/media/verdon gorge.jpg": "/website-example/static/media/verdon gorge.d8a26bcfcdda3c11416e.jpg",
+    "static/media/paris.jpg": "/website-example/static/media/paris.18913488a0fbe301d47f.jpg",
+    "static/media/amsterdam.jpg": "/website-example/static/media/amsterdam.c6651a0eec89d0f7975c.jpg",
+    "static/media/valencia.jpg": "/website-example/static/media/valencia.5e4522828c301990524c.jpg",
+    "static/media/switzerland.jpg": "/website-example/static/media/switzerland.9be310654e9e0e4c7b32.jpg",
+    "static/media/palace versailles.jpg": "/website-example/static/media/palace versailles.aa5e276bcd9fd045b74c.jpg",
     "index.html": "/website-example/index.html",
     "main.fb961db8.css.map": "/website-example/static/css/main.fb961db8.css.map",
-    "main.9eae43ee.js.map": "/website-example/static/js/main.9eae43ee.js.map",
+    "main.35bf3254.js.map": "/website-example/static/js/main.35bf3254.js.map",
     "488.d2245c7f.chunk.js.map": "/website-example/static/js/488.d2245c7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb961db8.css",
-    "static/js/main.9eae43ee.js"
+    "static/js/main.35bf3254.js"
   ]
 }
